@@ -19,7 +19,7 @@ class MyApp extends HookConsumerWidget {
 
     return MaterialApp.router(
       routerConfig: appRouter.config(),
-      title: 'Turbo Delivery Driver',
+      title: 'Chewbe',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
